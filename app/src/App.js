@@ -6,6 +6,7 @@ import TransactionList from './components/TransactionList.js';
 import RegisterTransaction from './components/RegisterTransaction.js';
 
 import { GlobalProvider } from './context/GlobalState.js';
+import './App.css';
 
 function App() {
   return (
